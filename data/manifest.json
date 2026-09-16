@@ -1,0 +1,27 @@
+{
+ "builtAt": "2026-09-15T23:49:21.437Z",
+ "report": {
+  "vehicles": 1,
+  "variants": 12,
+  "leaves": 2028,
+  "documents": 2759,
+  "missingDocuments": 0,
+  "expiredDocuments": 0,
+  "images": 4423,
+  "imagesNotEncoded": 0,
+  "bytes": 77806359,
+  "truncations": 0,
+  "indexesWithoutBody": [],
+  "unparseable": [],
+  "walkerFailures": {},
+  "datasets": {
+   "1CA8": {
+    "repo": "ds-1ca8",
+    "label": "C3",
+    "documents": 2759,
+    "images": 4421,
+    "bytes": 77792357
+   }
+  }
+ }
+}
