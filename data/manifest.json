@@ -1,5 +1,5 @@
 {
- "builtAt": "2026-09-20T16:28:53.380Z",
+ "builtAt": "2026-09-20T17:44:27.848Z",
  "report": {
   "vehicles": 48,
   "variants": 2406,
@@ -9,8 +9,8 @@
   "expiredDocuments": 0,
   "images": 108192,
   "imagesNotEncoded": 0,
-  "imagesFromCache": 108140,
-  "bytes": 6065727768,
+  "imagesFromCache": 108192,
+  "bytes": 6065830411,
   "truncations": 0,
   "indexesWithoutBody": [],
   "unparseable": [],
@@ -28,168 +28,168 @@
     "label": "SAXO",
     "documents": 3407,
     "images": 3896,
-    "bytes": 120898421
+    "bytes": 120899823
    },
    "1CMS": {
     "repo": "ds-1cms",
     "label": "C-ZERO",
     "documents": 894,
     "images": 1607,
-    "bytes": 42645849
+    "bytes": 42646413
    },
    "1CB0": {
     "repo": "ds-1cb0",
     "label": "C1",
     "documents": 1554,
     "images": 2677,
-    "bytes": 67455979
+    "bytes": 67456752
    },
    "1CA6": {
     "repo": "ds-1ca6",
     "label": "C2",
     "documents": 2514,
     "images": 3908,
-    "bytes": 104132177
+    "bytes": 104133791
    },
    "1CYA": {
     "repo": "ds-1cya",
     "label": "DS3",
     "documents": 2707,
     "images": 5722,
-    "bytes": 141045121
+    "bytes": 141048396
    },
    "1CA8": {
     "repo": "ds-1ca8",
     "label": "C3",
     "documents": 2759,
     "images": 4430,
-    "bytes": 114580972
+    "bytes": 114582120
    },
    "1CA3": {
     "repo": "ds-1ca3",
     "label": "C3 II",
     "documents": 2673,
     "images": 3841,
-    "bytes": 101635682
+    "bytes": 101637077
    },
    "1CXA": {
     "repo": "ds-1cxa",
     "label": "C3 (A51)",
     "documents": 3058,
     "images": 6170,
-    "bytes": 150887525
+    "bytes": 150890121
    },
    "1CA4": {
     "repo": "ds-1ca4",
     "label": "C3 PLURIEL",
     "documents": 1839,
     "images": 2787,
-    "bytes": 75991045
+    "bytes": 75991823
    },
    "1CWA": {
     "repo": "ds-1cwa",
     "label": "C3 PICASSO",
     "documents": 2363,
     "images": 5073,
-    "bytes": 123047393
+    "bytes": 123049480
    },
    "1CA9": {
     "repo": "ds-1ca9",
     "label": "NEMO",
     "documents": 1866,
     "images": 3894,
-    "bytes": 88932711
+    "bytes": 88933420
    },
    "2CM4": {
     "repo": "ds-2cm4",
     "label": "BERLINGO",
     "documents": 3837,
     "images": 5050,
-    "bytes": 150611404
+    "bytes": 150612985
    },
    "1CM5": {
     "repo": "ds-1cm5",
     "label": "BERLINGO (M59)",
     "documents": 3430,
     "images": 5555,
-    "bytes": 141135084
+    "bytes": 141136960
    },
    "1CB9": {
     "repo": "ds-1cb9",
     "label": "BERLINGO (B9)",
     "documents": 2816,
     "images": 5141,
-    "bytes": 135013894
+    "bytes": 135016711
    },
    "1CN2": {
     "repo": "ds-1cn2",
     "label": "ZX",
     "documents": 3653,
     "images": 3946,
-    "bytes": 134573899
+    "bytes": 134576312
    },
    "1CN6": {
     "repo": "ds-1cn6",
     "label": "XSARA",
     "documents": 3753,
     "images": 5104,
-    "bytes": 148444660
+    "bytes": 148448061
    },
    "1CN7": {
     "repo": "ds-1cn7",
     "label": "XSARA II",
     "documents": 3272,
     "images": 4808,
-    "bytes": 134782485
+    "bytes": 134785341
    },
    "1C6N": {
     "repo": "ds-1c6n",
     "label": "XSARA PICASSO",
     "documents": 3042,
     "images": 4507,
-    "bytes": 122516382
+    "bytes": 122518978
    },
    "1CM3": {
     "repo": "ds-1cm3",
     "label": "C-ELYSEE",
     "documents": 1686,
     "images": 3844,
-    "bytes": 85264507
+    "bytes": 85265612
    },
    "1CB5": {
     "repo": "ds-1cb5",
     "label": "C4",
     "documents": 4663,
     "images": 7854,
-    "bytes": 198329866
+    "bytes": 198332381
    },
    "1C58": {
     "repo": "ds-1c58",
     "label": "C4 PICASSO",
     "documents": 3919,
     "images": 7732,
-    "bytes": 194869719
+    "bytes": 194871667
    },
    "1CH5": {
     "repo": "ds-1ch5",
     "label": "C4 PICASSO (B78)",
     "documents": 2101,
     "images": 4323,
-    "bytes": 103443361
+    "bytes": 103445134
    },
    "1CB7": {
     "repo": "ds-1cb7",
     "label": "C4 (B7) - DS4",
     "documents": 3346,
     "images": 6664,
-    "bytes": 164057677
+    "bytes": 164061475
    },
    "1CMJ": {
     "repo": "ds-1cmj",
     "label": "C4 AIRCROSS",
     "documents": 2109,
     "images": 4598,
-    "bytes": 101513090
+    "bytes": 101514014
    },
    "1CXB": {
     "repo": "ds-1cxb",
@@ -203,42 +203,42 @@
     "label": "XANTIA",
     "documents": 3443,
     "images": 4138,
-    "bytes": 123737646
+    "bytes": 123739210
    },
    "1C2X": {
     "repo": "ds-1c2x",
     "label": "XANTIA II",
     "documents": 3406,
     "images": 4128,
-    "bytes": 125689811
+    "bytes": 125691453
    },
    "1CX4": {
     "repo": "ds-1cx4",
     "label": "C5",
     "documents": 2950,
     "images": 4618,
-    "bytes": 123135643
+    "bytes": 123137159
    },
    "1CX3": {
     "repo": "ds-1cx3",
     "label": "C5 II",
     "documents": 3196,
     "images": 5322,
-    "bytes": 132125736
+    "bytes": 132127371
    },
    "1CX7": {
     "repo": "ds-1cx7",
     "label": "C5 (X7)",
     "documents": 4418,
     "images": 10095,
-    "bytes": 234230814
+    "bytes": 234233373
    },
    "1CB8": {
     "repo": "ds-1cb8",
     "label": "DS5",
     "documents": 2538,
     "images": 6088,
-    "bytes": 132769542
+    "bytes": 132771346
    },
    "1CVX": {
     "repo": "ds-1cvx",
@@ -252,42 +252,42 @@
     "label": "XM II",
     "documents": 2991,
     "images": 2706,
-    "bytes": 93261146
+    "bytes": 93262867
    },
    "1CX6": {
     "repo": "ds-1cx6",
     "label": "C6",
     "documents": 2445,
     "images": 4410,
-    "bytes": 104945111
+    "bytes": 104946116
    },
    "1CU6": {
     "repo": "ds-1cu6",
     "label": "EVASION",
     "documents": 2540,
     "images": 2691,
-    "bytes": 88741296
+    "bytes": 88742530
    },
    "1CVV": {
     "repo": "ds-1cvv",
     "label": "C8",
     "documents": 3574,
     "images": 6270,
-    "bytes": 157642791
+    "bytes": 157630962
    },
    "1CMP": {
     "repo": "ds-1cmp",
     "label": "C-CROSSER",
     "documents": 2114,
     "images": 4172,
-    "bytes": 94653685
+    "bytes": 94654641
    },
    "2CG9": {
     "repo": "ds-2cg9",
     "label": "JUMPY COMBI",
     "documents": 3067,
     "images": 5617,
-    "bytes": 164202214
+    "bytes": 164204210
    },
    "1CVD": {
     "repo": "ds-1cvd",
@@ -308,49 +308,49 @@
     "label": "NEMO",
     "documents": 1816,
     "images": 3824,
-    "bytes": 87123398
+    "bytes": 87124107
    },
    "2CM5": {
     "repo": "ds-2cm5",
     "label": "BERLINGO (M59)",
     "documents": 3513,
     "images": 5745,
-    "bytes": 150952983
+    "bytes": 150960455
    },
    "2CB9": {
     "repo": "ds-2cb9",
     "label": "BERLINGO (B9)",
     "documents": 2721,
     "images": 5524,
-    "bytes": 138249526
+    "bytes": 138252200
    },
    "2CU6": {
     "repo": "ds-2cu6",
     "label": "JUMPY I & II",
     "documents": 2378,
     "images": 2521,
-    "bytes": 102720671
+    "bytes": 102723244
    },
    "2CU3": {
     "repo": "ds-2cu3",
     "label": "JUMPER",
     "documents": 3712,
     "images": 4292,
-    "bytes": 210861341
+    "bytes": 210866079
    },
    "2CU5": {
     "repo": "ds-2cu5",
     "label": "JUMPER II",
     "documents": 3351,
     "images": 3733,
-    "bytes": 183044359
+    "bytes": 183052013
    },
    "2CU9": {
     "repo": "ds-2cu9",
     "label": "JUMPER III",
     "documents": 3636,
     "images": 4421,
-    "bytes": 377381255
+    "bytes": 377400739
    }
   },
   "languages": [

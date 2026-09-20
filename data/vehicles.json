@@ -4,6 +4,7 @@
   "cat": "VP01",
   "label": "AX",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cs9"
  },
@@ -12,6 +13,7 @@
   "cat": "VP01",
   "label": "SAXO",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cs8"
  },
@@ -20,6 +22,7 @@
   "cat": "VP01",
   "label": "C-ZERO",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cms"
  },
@@ -28,6 +31,7 @@
   "cat": "VP01",
   "label": "C1",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cb0"
  },
@@ -36,6 +40,7 @@
   "cat": "VP01",
   "label": "C2",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1ca6"
  },
@@ -44,6 +49,7 @@
   "cat": "VP01",
   "label": "DS3",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cya"
  },
@@ -52,6 +58,7 @@
   "cat": "VP01",
   "label": "C3",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1ca8"
  },
@@ -60,6 +67,7 @@
   "cat": "VP02",
   "label": "C3 II",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1ca3"
  },
@@ -68,6 +76,7 @@
   "cat": "VP03",
   "label": "C3 (A51)",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cxa"
  },
@@ -76,6 +85,7 @@
   "cat": "VP05",
   "label": "C3 PLURIEL",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1ca4"
  },
@@ -84,6 +94,7 @@
   "cat": "VP06",
   "label": "C3 PICASSO",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cwa"
  },
@@ -92,6 +103,7 @@
   "cat": "VP01",
   "label": "NEMO",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1ca9"
  },
@@ -100,6 +112,7 @@
   "cat": "VP01",
   "label": "BERLINGO",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-2cm4"
  },
@@ -108,6 +121,7 @@
   "cat": "VP02",
   "label": "BERLINGO (M59)",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cm5"
  },
@@ -116,6 +130,7 @@
   "cat": "VP03",
   "label": "BERLINGO (B9)",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cb9"
  },
@@ -124,6 +139,7 @@
   "cat": "VP01",
   "label": "ZX",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cn2"
  },
@@ -132,6 +148,7 @@
   "cat": "VP01",
   "label": "XSARA",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cn6"
  },
@@ -140,6 +157,7 @@
   "cat": "VP02",
   "label": "XSARA II",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cn7"
  },
@@ -148,6 +166,7 @@
   "cat": "VP03",
   "label": "XSARA PICASSO",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1c6n"
  },
@@ -156,6 +175,7 @@
   "cat": "VP01",
   "label": "C-ELYSEE",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cm3"
  },
@@ -164,6 +184,7 @@
   "cat": "VP01",
   "label": "C4",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cb5"
  },
@@ -172,6 +193,7 @@
   "cat": "VP03",
   "label": "C4 PICASSO",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1c58"
  },
@@ -180,6 +202,7 @@
   "cat": "VP04",
   "label": "C4 PICASSO (B78)",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1ch5"
  },
@@ -188,6 +211,7 @@
   "cat": "VP05",
   "label": "C4 (B7) - DS4",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cb7"
  },
@@ -196,6 +220,7 @@
   "cat": "VP07",
   "label": "C4 AIRCROSS",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cmj"
  },
@@ -204,6 +229,7 @@
   "cat": "VP01",
   "label": "BX",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cxb"
  },
@@ -212,6 +238,7 @@
   "cat": "VP01",
   "label": "XANTIA",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cx1"
  },
@@ -220,6 +247,7 @@
   "cat": "VP02",
   "label": "XANTIA II",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1c2x"
  },
@@ -228,6 +256,7 @@
   "cat": "VP01",
   "label": "C5",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cx4"
  },
@@ -236,6 +265,7 @@
   "cat": "VP02",
   "label": "C5 II",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cx3"
  },
@@ -244,6 +274,7 @@
   "cat": "VP03",
   "label": "C5 (X7)",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cx7"
  },
@@ -252,6 +283,7 @@
   "cat": "VP01",
   "label": "DS5",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cb8"
  },
@@ -260,6 +292,7 @@
   "cat": "VP01",
   "label": "XM",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cvx"
  },
@@ -268,6 +301,7 @@
   "cat": "VP02",
   "label": "XM II",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cv8"
  },
@@ -276,6 +310,7 @@
   "cat": "VP01",
   "label": "C6",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cx6"
  },
@@ -284,6 +319,7 @@
   "cat": "VP01",
   "label": "EVASION",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cu6"
  },
@@ -292,6 +328,7 @@
   "cat": "VP01",
   "label": "C8",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cvv"
  },
@@ -300,6 +337,7 @@
   "cat": "VP01",
   "label": "C-CROSSER",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-1cmp"
  },
@@ -308,6 +346,7 @@
   "cat": "VP01",
   "label": "JUMPY COMBI",
   "group": "Véhicules particuliers",
+  "groupCode": "VP",
   "image": "img/AC/image/vehicule/mainVP.avif",
   "repo": "ds-2cg9"
  },
@@ -316,6 +355,7 @@
   "cat": "VU01",
   "label": "C15",
   "group": "Véhicules professionnels",
+  "groupCode": "VU",
   "image": "img/AC/image/vehicule/mainVU.avif",
   "repo": "ds-1cvd"
  },
@@ -324,6 +364,7 @@
   "cat": "VU01",
   "label": "C25",
   "group": "Véhicules professionnels",
+  "groupCode": "VU",
   "image": "img/AC/image/vehicule/mainVU.avif",
   "repo": "ds-2cx2"
  },
@@ -332,6 +373,7 @@
   "cat": "VU01",
   "label": "NEMO",
   "group": "Véhicules professionnels",
+  "groupCode": "VU",
   "image": "img/AC/image/vehicule/mainVU.avif",
   "repo": "ds-2ca9"
  },
@@ -340,6 +382,7 @@
   "cat": "VU01",
   "label": "BERLINGO",
   "group": "Véhicules professionnels",
+  "groupCode": "VU",
   "image": "img/AC/image/vehicule/mainVU.avif",
   "repo": "ds-2cm4"
  },
@@ -348,6 +391,7 @@
   "cat": "VU02",
   "label": "BERLINGO (M59)",
   "group": "Véhicules professionnels",
+  "groupCode": "VU",
   "image": "img/AC/image/vehicule/mainVU.avif",
   "repo": "ds-2cm5"
  },
@@ -356,6 +400,7 @@
   "cat": "VU03",
   "label": "BERLINGO (B9)",
   "group": "Véhicules professionnels",
+  "groupCode": "VU",
   "image": "img/AC/image/vehicule/mainVU.avif",
   "repo": "ds-2cb9"
  },
@@ -364,6 +409,7 @@
   "cat": "VU01",
   "label": "JUMPY I & II",
   "group": "Véhicules professionnels",
+  "groupCode": "VU",
   "image": "img/AC/image/vehicule/mainVU.avif",
   "repo": "ds-2cu6"
  },
@@ -372,6 +418,7 @@
   "cat": "VU02",
   "label": "JUMPY III",
   "group": "Véhicules professionnels",
+  "groupCode": "VU",
   "image": "img/AC/image/vehicule/mainVU.avif",
   "repo": "ds-2cg9"
  },
@@ -380,6 +427,7 @@
   "cat": "VU01",
   "label": "JUMPER",
   "group": "Véhicules professionnels",
+  "groupCode": "VU",
   "image": "img/AC/image/vehicule/mainVU.avif",
   "repo": "ds-2cu3"
  },
@@ -388,6 +436,7 @@
   "cat": "VU02",
   "label": "JUMPER II",
   "group": "Véhicules professionnels",
+  "groupCode": "VU",
   "image": "img/AC/image/vehicule/mainVU.avif",
   "repo": "ds-2cu5"
  },
@@ -396,6 +445,7 @@
   "cat": "VU03",
   "label": "JUMPER III",
   "group": "Véhicules professionnels",
+  "groupCode": "VU",
   "image": "img/AC/image/vehicule/mainVU.avif",
   "repo": "ds-2cu9"
  }
